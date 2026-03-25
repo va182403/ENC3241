@@ -41,15 +41,15 @@ title: Instructions
 
 
 # Revised Instructions: How to Draw A Rose
-
-<img width="400" height="300" src="circle.png">
+<div style="text-align:center;">
+<img src="circle.png">
 <details>
 <summary>Figure 1. A small circle on a blank canvas.</summary>
 <p>(Source: Vanessa Roberts)</p>
 </details>
 <p>Step 1. Draw a small circle in the center of the canvas.</p> <br><br>
 
-<img width="400" height="300" src="spiral.png">
+<img src="spiral.png">
 <details>
 <summary>Figure 2. A spiral has been added to the previous circle.</summary>
 <p>(Source: Vanessa Roberts)</p>
@@ -58,7 +58,7 @@ title: Instructions
 
 <p>3. <b>Connect the spiral to itself to form another outer circle surrounding the original inner circle</b> to form the base of the rose.</p> <br> <br>
 
-<img width="400" height="300" src="petal.png">
+<img src="petal.png">
 <details>
 <summary>Figure 3. A squiggly line petal has been added to the rose.</summary>
 <p>(Source: Vanessa Roberts)</p>
@@ -67,21 +67,21 @@ title: Instructions
 
 <p>5. <b>Connect the squiggly line back to any other point on the outer circle's perimeter.</b> This is how you create the petals.</p>  <br><br>
 
-<img width="400" height="300" src="petals.png">
+<img src="petals.png">
 <details>
 <summary>Figure 4. Multiple more petals have been added to the rose.</summary>
 <p>(Source: Vanessa Roberts)</p>
 </details>
 <p>6. <b>Repeat steps 4 and 5 to continue drawing petals, making them increasingly longer lengths.</b> Continue until you're satisfied with the size of your rose.</p> <br><br>
 
-<img width="400" height="300" src="cup.png">
+<img src="cup.png">
 <details>
 <summary>Figure 5. A small semicircle is now connected to the bottom of the rose.</summary>
 <p>(Source: Vanessa Roberts)</p>
 </details>
 <p>7. At the bottom of your petals, <b>draw a semicircle.</b> This will be where the petals connect to the stem.</p> <br><br>
 
-<img width="400" height="300" src="stem.png">
+<img src="stem.png">
 <details>
 <summary>Figure 6. A stem reaching from the bottom of the semicircle to the bottom of the canvas has been added to the rose.</summary>
 <p>(Source: Vanessa Roberts)</p>
@@ -89,17 +89,18 @@ title: Instructions
 <p>8. Starting from the middle of the semicircle's perimeter, <b>draw a squiggly line straight down to the bottom of the canvas.</b></p> <br> <br>
 <p>9. Next to the previously added squiggly line, <b>draw another squiggly line going straight down to the bottom of the canvas</b> to give them stem width.</p><br> <br>
 
-<img width="400" height="300" src="leaves.png">
+<img src="leaves.png">
 <details>
 <summary>Figure 7. Two small leaves have been added to the stem of the rose.</summary>
 <p>(Source: Vanessa Roberts)</p>
 </details>
 <p>10. At any points on the stem, <b>draw two teardrop shapes.</b> These will be the leaves.</p><br><br>
 
-<img width="400" height="300" src="thorns.png">
+<img src="thorns.png">
 <details>
 <summary>Figure 8. Various smaller details inside the leaves and along the stem have been added to the rose.</summary>
 <p>(Source: Vanessa Roberts)</p>
 </details>
 <p>11. Inside these teardrop shapes, <b>draw tree branches</b> to create the veins in leaves. There can be as many or as few as you want.</p> <br>
 <p>12. Along the rest of the stem, <b>draw scattered small lines</b> to create the thorns. You should now have a completed rose.</p>
+</div>
