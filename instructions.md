@@ -42,7 +42,7 @@ title: Instructions
 
 # Revised Instructions: How to Draw A Rose
 
-<img width="400" height="300" src="circle.png">
+<img width="800" height="300" src="circle.png">
 <details>
 <summary>Figure 1. A small circle on a blank canvas.</summary>
 <p>(Source: Vanessa Roberts)</p>
