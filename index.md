@@ -12,4 +12,4 @@ Vanessa Roberts is an aspiring programmer with an interest in robotics software 
 - [Resume](resume.md)
 - [Cover Letter](coverletter.md)
 - [Instructions](instructions.md)
-- [Proposal](proposal.md)
+- [Proposal](proposalDraft.pdf)
