@@ -5,4 +5,4 @@ title: Proposal
 
 # Proposal
 
-[Paste your proposal here]
+<a href="proposalDraftPart2.pdf"></a>
