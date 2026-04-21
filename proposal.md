@@ -5,4 +5,4 @@ title: Proposal
 
 # Proposal
 
-<object data="proposalDraftPart2.pdf"></object>
+<embed src="proposalDraftPart2.pdf" type="application/pdf">
