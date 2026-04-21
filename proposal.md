@@ -5,4 +5,4 @@ title: Proposal
 
 # Proposal
 
-<a href="proposalDraftPart2.pdf"></a>
+<object data="proposalDraftPart2.pdf"></object>
