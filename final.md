@@ -4,7 +4,6 @@ title: Proposal
 ---
 
 # Self-Assessment
-<h1>ENC Final: Self-Assessment</h6>
 
 <ul>
    <li><h3>What assignment are you most proud of? Why? What did you learn by completing it?</h3>
